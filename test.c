@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main(int argc, char const *argv[]) {
-  printf("Yes we can upload this to repository");
+  printf("Uploading after renaming repository");
   return 0;
 }
