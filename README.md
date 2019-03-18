@@ -1,2 +1,1 @@
-# demo
-my first repository
+# Problems of CodeMonk solved serially.
