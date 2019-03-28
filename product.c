@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main() { //made changes 
   int n, a[1000];
   long int product = 1;
   scanf("%d", &n);
